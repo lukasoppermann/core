@@ -1,0 +1,28 @@
+{
+  "name": "nuclei",
+  "description": "A collection of easy drop-in vanilla js custom element",
+  "authors": [
+    "Lukas Oppermann"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "nuclei",
+    "ui",
+    "custom-element",
+    "vanilla-js",
+    "web-components",
+    "element-collection"
+  ],
+  "homepage": "https://github.com/nuclei/core",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+      "material-input": "nuclei/material-input",
+      "material-toggle": "nuclei/material-toggle"
+  }
+}
