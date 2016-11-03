@@ -22,7 +22,7 @@
     "tests"
   ],
   "dependencies": {
-      "material-input": "nuclei/material-input",
-      "material-toggle": "nuclei/material-toggle"
+      "material-input": "nuclei/material-input#^1.0.0",
+      "material-toggle": "nuclei/material-toggle#^0.0.1"
   }
 }
