@@ -8,6 +8,7 @@ All web components are written in vanilla javascript with any framework or any o
 [Material Toggle](https://github.com/nuclei/material-toggle)    
 [Material Input](https://github.com/nuclei/material-input)    
 [Status Bar](https://github.com/nuclei/status-bar)    
+[Page Sections](https://github.com/nuclei/page-sections)    
 
 ## Contributions
 Create a [PR](https://github.com/nuclei/core/pulls) to submit a new nucleus (package).

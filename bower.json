@@ -24,6 +24,7 @@
   "dependencies": {
       "material-input": "nuclei/material-input#^1.0.0",
       "material-toggle": "nuclei/material-toggle#^0.0.1",
-      "status-bar": "nuclei/status-bar#^1.0.0"
+      "status-bar": "nuclei/status-bar#^1.0.0",
+      "page-sections": "nuclei/page-sections#^0.0.1"
   }
 }
